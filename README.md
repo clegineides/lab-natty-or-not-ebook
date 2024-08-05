@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Natural ou Fake Natty? Como Vencer na Era das IAs Generativa
 
 ## 🚀 Introdução
 
@@ -20,13 +20,17 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+#  Desigualdade de Acesso à Inteligência Artificial ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Olá! Me chamo Clegineide Silva, estou participando de um desáfio "Natty or Not" do Bootcamp da DIO para explorar IAs generativas. Desse modo, tenho como base para este desáfio um breve ebook gerado a partir da IA ChatGPT.
+Este ebook apresenta os seguintes objetivos:
+° Apresentar as disparidades no acesso às tecnologias de IA.
+° Discutir os impactos da IA na ampliação ou redução das desigualdades sociais e econômicas.
+Espero que gostem, tenham uma boa leitura.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
