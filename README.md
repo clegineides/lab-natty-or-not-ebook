@@ -16,7 +16,7 @@ Este ebook apresenta os seguintes objetivos:
 Espero que gostem, tenham uma boa leitura.
 
 ## 🤖 Tecnologias Utilizadas
-ChatGPT, Word.
+[ChatGPT](https://chat.openai.com/), Word.
 
 ## 🧐 Processo de Criação
 Este ebook foi gerado a partir de IA. Selecionei o título do livro, fiz a divisão dos tópicos e selecionei o que eu gostaria de
@@ -31,7 +31,7 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
-- [E-BOOK](file:///C:/Users/ADM/Downloads/INTELIG%C3%8ANCIA-ARTIFICIAL.pdf)
+- [E-BOOK](https://github.com/clegineides/lab-natty-or-not-ebook/blob/main/INTELIG%C3%8ANCIA-ARTIFICIAL.pdf)
   
 
 ## Links Interessantes
