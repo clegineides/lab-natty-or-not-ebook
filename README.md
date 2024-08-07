@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Clegineide aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -23,7 +23,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 #  Desigualdade de Acesso à Inteligência Artificial ;)
 
 ## 📒 Descrição
-Olá! Me chamo Clegineide Silva, estou participando de um desáfio "Natty or Not" do Bootcamp da DIO para explorar IAs generativas. Desse modo, tenho como base para este desáfio um breve ebook gerado a partir da IA ChatGPT.
+Olá! Estou participando de um desáfio "Natty or Not" do Bootcamp da DIO para explorar IAs generativas. Desse modo, tenho como base para este desáfio um breve ebook gerado a partir da IA ChatGPT.
 Este ebook apresenta os seguintes objetivos:
 ° Apresentar as disparidades no acesso às tecnologias de IA.
 ° Discutir os impactos da IA na ampliação ou redução das desigualdades sociais e econômicas.
@@ -33,9 +33,12 @@ Espero que gostem, tenham uma boa leitura.
 ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Este ebook foi gerado a partir de IA. Selecionei o título do livro, fiz a divisão dos tópicos e selecionei o que eu gostaria de
+ler e falar a respeito do tema. Com isso, editei no Word o ebook, depois o convertir para pdf.
 
 ## 🚀 Resultados
+Linguagem e escrita natural com o ChatGPT, foi uma das primeiras vezes que utilizei.
+Aprendi bastante, foi enriquecedor fazer pesquisas relacionadas ao tema: Desigualdade de Acesso à Inteligência Artificial. 
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
@@ -43,7 +46,7 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
 ### Exemplos e Insigths
-
+-
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
