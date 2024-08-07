@@ -4,12 +4,12 @@
 
 > Woooow! Look at this 👀
 
-
 ```markdown
 #  Desigualdade de Acesso à Inteligência Artificial ;)
 
 ## 📒 Descrição
-Olá! Estou participando de um desáfio "Natty or Not" do Bootcamp da DIO para explorar IAs generativas. Desse modo, tenho como base para este desáfio um breve ebook gerado a partir da IA ChatGPT.
+Olá! Estou participando de um desáfio "Natty or Not" do Bootcamp da DIO para explorar IAs generativas.
+Desse modo, tenho como base para este desáfio um breve ebook gerado a partir da IA ChatGPT.
 Este ebook apresenta os seguintes objetivos:
 ° Apresentar as disparidades no acesso às tecnologias de IA.
 ° Discutir os impactos da IA na ampliação ou redução das desigualdades sociais e econômicas.
@@ -19,8 +19,9 @@ Espero que gostem, tenham uma boa leitura.
 [ChatGPT](https://chat.openai.com/), Word.
 
 ## 🧐 Processo de Criação
-Este ebook foi gerado a partir de IA. Selecionei o título do livro, fiz a divisão dos tópicos e selecionei o que eu gostaria de
-ler e falar a respeito do tema. Com isso, editei no Word o ebook, depois o convertir para pdf.
+Este ebook foi gerado a partir de IA. Selecionei o título do livro,
+fiz a divisão dos tópicos e selecionei o que eu gostaria de ler e falar a respeito do tema. Com isso,
+editei no Word o ebook, depois o convertir para pdf.
 
 ## 🚀 Resultados
 Linguagem e escrita natural com o ChatGPT, foi uma das primeiras vezes que utilizei.
